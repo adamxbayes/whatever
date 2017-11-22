@@ -1,0 +1,6 @@
+
+git add . (Adds all files in to the uncommited stage)
+
+git commit -m "" (Adds all files from the uncommited stage in to the committed stage where they are packaged)
+
+git push (Adds all commited files to the remote branch i.e github website)
