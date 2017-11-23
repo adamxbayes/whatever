@@ -1,0 +1,37 @@
+Cocktails app idea
+
+using cocktails db API,
+
+finds drink with commmon ingrediants,
+
+if say (drink had 3 common ingrediants), 
+{then find ALL drinks with same ingrediants}
+
+if (there are additional ingrediants to the cocktails which have same core ingrediants)
+
+{then print "If you had THIS ingrediant, you could make x cocktail"}
+
+example
+
+Mojito 
+
+35ml white rum -
+25ml lime juice - 
+15ml sugar syrup - 
+mint leaves
+
+muddle with crushed ice, in cooler glass top with soda water and crushed ice cap.
+
+mint for garnish.
+
+Daiquiri
+
+35ml white rum -
+25ml lime juice -
+15ml sugar syrup -
+
+shake and strain in to coupette glass
+
+Say if you entered the Daiquiri drink for example in to the app, then Mojito could be recommended if the user had the mint leaves. 
+As the 3 ingrediants in common are the same, (white rum, lime juice, sugar syrup)
+
