@@ -1,6 +1,6 @@
 Cocktails app idea
 
-using cocktails db API,
+using absolute drinks API,
 
 finds drink with commmon ingrediants,
 
@@ -35,3 +35,12 @@ shake and strain in to coupette glass
 Say if you entered the Daiquiri drink for example in to the app, then Mojito could be recommended if the user had the mint leaves. 
 As the 3 ingrediants in common are the same, (white rum, lime juice, sugar syrup)
 
+
+drop down list?
+
+ingredient 1: white rum
+ingredient 2: lime juice
+
+returns drinks containing those two ingredients
+
+if extra common ingredients, list them and say which new cocktail you could make.
