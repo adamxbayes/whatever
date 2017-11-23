@@ -44,3 +44,22 @@ ingredient 2: lime juice
 returns drinks containing those two ingredients
 
 if extra common ingredients, list them and say which new cocktail you could make.
+
+
+
+could, grab all cocktails as objects and place in array
+
+grab all ingredients and place in array named ingredients
+
+users ingrediants placed in another array
+
+could do 
+
+for loop which will go through users ingredients and if matches to ingredients array
+
+
+return all cocktails with those ingredients
+
+lists ingredients user DOESN'T HAVE and list cocktails users can make if they have missing ingredients
+
+users ingredients from drop down list
